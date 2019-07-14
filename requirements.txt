@@ -2,7 +2,7 @@ pyodbc==4.0.24
 XlsxWriter==1.1.0
 openpyxl==2.5.6
 pandas==0.23.4
-requests==2.19.1
+requests==2.20.0
 apscheduler==3.5.3
 python_dateutil==2.7.3
 arrow==0.12.1
